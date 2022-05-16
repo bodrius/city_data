@@ -5,6 +5,8 @@ export const DataCity = [
     Id: 1,
     Name: "cities.Alupka",
     Value: "cities.Alupka",
+    longitude: "34.0430556",
+    latitude: "44.4197222",
   },
   {
     Id: 2,
@@ -196,7 +198,7 @@ export const DataCity = [
     Name: "cities.Kovel",
     Value: "cities.Kovel",
   },
-    {
+  {
     Id: 40,
     Name: "cities.Lutsk",
     Value: "cities.Lutsk",
@@ -531,11 +533,7 @@ export const DataCity = [
     Name: "cities.Irshava",
     Value: "cities.Irshava",
   },
-  {
-    Id: 104,
-    Name: "cities.Berehove",
-    Value: "cities.Berehove",
-  },
+
   {
     Id: 107,
     Name: "cities.Mukachevo",
@@ -1202,7 +1200,7 @@ export const DataCity = [
     Value: "cities.Skole",
   },
   {
-    Id: 239,
+    Id: 408,
     Name: "cities.Sokal",
     Value: "cities.Sokal",
   },
@@ -2045,5 +2043,5 @@ export const DataCity = [
     Id: 407,
     Name: "cities.Chernivtsi",
     Value: "cities.Chernivtsi",
-  },  
-]
+  },
+];
